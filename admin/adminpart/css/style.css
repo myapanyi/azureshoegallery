@@ -1,0 +1,124 @@
+.alignimage{
+margin-left: 400px;
+}
+.alignbutton{
+margin-left: 410px;
+}
+
+.aligndetail{
+padding-left: 380px;
+}
+.ncode{
+padding-left: 15px;
+color: darkorange;
+}
+.welcome{
+color:coral;
+text-align: center;
+margin-bottom: 100px;
+}
+.listneed{
+margin-left: 250px;
+margin-bottom: 50px;
+}
+.arriveitem{
+margin:20px 20px 20px 20px;
+}
+.imageLeft{
+	margin-left: 430px;
+}
+.buttonLeft{
+	margin-left: 450px;
+}
+ #pagination
+ {
+
+ margin-left:500px;
+ margin-top: 120px;
+ padding-bottom: 50px;
+
+ }
+ .pigi{
+ background-color:#f0f0e9;
+ border:0;
+ line-height:1.42857;
+ margin-left-1px;
+ list-style: none;
+ float: left;
+ padding:6px 12px;
+position:relative;
+ margin-right:5px;
+ color:#0063DC;
+
+ }
+ #pagination li:hover
+{
+ color:#FF0084;
+ background-color:#FE980F;
+ cursor: pointer;
+}
+.recontent{
+	margin-top: 50px;
+}
+.adminerror{
+	font-size: 17px;
+	color: chocolate;
+	font-family: cursive;
+	font-style: italic;
+}
+.nomatch{
+color:darkorange;
+margin-left: 300px;
+}
+.adminregister{
+color:#045cbb;
+font-style: italic;
+font-family: cursive;
+}
+.colorreq{
+	color:red;
+}
+.sorry{
+margin-top: 100px;
+}
+.agender{
+margin-top: 8px;
+}
+.registererror{
+color:brown;
+font-style:italic;
+font-family:-webkit-body;
+}
+.memreg{
+color:#FE980F;
+}
+.reprofile{
+margin-left: 70px;
+}
+.leftmenunav{
+	 color: aliceblue;
+     font-size: initial;
+     /* background: dimgrey; */
+     padding: 10px 40px 10px 30px;
+     font-size: 14px;
+}
+.cancelbtn{
+	padding: 6px 13px 6px 13px;
+	border-radius: 3px;
+}
+.loginreg{
+	font-size: large;
+	font-style: italic;
+	padding-left: 15px;
+}
+.warning{
+	font-style: italic;
+	color: red;
+	font-size: 14px;
+	line-height: 3;
+}
+.successname{
+	color: darkcyan;
+	font-style: italic;
+	font-family: -webkit-body;
+}
